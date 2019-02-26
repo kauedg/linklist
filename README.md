@@ -1,2 +1,2 @@
 # linklist
-Collection of misc links
+Collection of misc links. Work in progress.
